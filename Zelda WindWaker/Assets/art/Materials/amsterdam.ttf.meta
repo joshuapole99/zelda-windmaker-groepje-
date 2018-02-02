@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 146d9a76e4183e14391108d5e479bd00
+timeCreated: 1517489283
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Amsterdam Graffiti
+  fontNames:
+  - Amsterdam Graffiti
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

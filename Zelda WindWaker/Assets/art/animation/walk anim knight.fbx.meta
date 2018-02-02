@@ -1,0 +1,301 @@
+fileFormatVersion: 2
+guid: f114d17fac57b9f4d8da71da191354a2
+timeCreated: 1517395935
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back
+    100002: belly
+    100004: cock
+    100006: crown
+    100008: elbow_left
+    100010: elbow_right
+    100012: group
+    100014: hand_left
+    100016: hand_right
+    100018: head
+    100020: left
+    100022: left_foot
+    100024: left_hand_IK
+    100026: left_hip
+    100028: left_knee
+    100030: left_leg
+    100032: link:CHaracter
+    100034: link:Mesh
+    100036: link:transform1
+    100038: link:transform2
+    100040: null
+    100042: pasted__pPipe1
+    100044: pasted__pSphere1
+    100046: polySurface2
+    100048: polySurface3
+    100050: polySurface4
+    100052: polySurface5
+    100054: pPipe1
+    100056: pSphere1
+    100058: right_foot
+    100060: right_hand_IK
+    100062: right_hip
+    100064: right_knee
+    100066: right_leg
+    100068: shoulder
+    100070: shoulder_left
+    100072: shoulder_right
+    100074: transform1
+    100076: transform2
+    100078: transform3
+    100080: transform4
+    100082: transform5
+    100084: transform6
+    100086: transform7
+    100088: transform8
+    100090: //RootNode
+    100092: wings:group_0_ID4
+    100094: wings:group_1_ID13
+    400000: back
+    400002: belly
+    400004: cock
+    400006: crown
+    400008: elbow_left
+    400010: elbow_right
+    400012: group
+    400014: hand_left
+    400016: hand_right
+    400018: head
+    400020: left
+    400022: left_foot
+    400024: left_hand_IK
+    400026: left_hip
+    400028: left_knee
+    400030: left_leg
+    400032: link:CHaracter
+    400034: link:Mesh
+    400036: link:transform1
+    400038: link:transform2
+    400040: null
+    400042: pasted__pPipe1
+    400044: pasted__pSphere1
+    400046: polySurface2
+    400048: polySurface3
+    400050: polySurface4
+    400052: polySurface5
+    400054: pPipe1
+    400056: pSphere1
+    400058: right_foot
+    400060: right_hand_IK
+    400062: right_hip
+    400064: right_knee
+    400066: right_leg
+    400068: shoulder
+    400070: shoulder_left
+    400072: shoulder_right
+    400074: transform1
+    400076: transform2
+    400078: transform3
+    400080: transform4
+    400082: transform5
+    400084: transform6
+    400086: transform7
+    400088: transform8
+    400090: //RootNode
+    400092: wings:group_0_ID4
+    400094: wings:group_1_ID13
+    4300000: polySurface5
+    7400000: walk
+    9500000: //RootNode
+    13700000: polySurface5
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: cock
+        weight: 1
+      - path: cock/belly
+        weight: 1
+      - path: cock/belly/shoulder
+        weight: 1
+      - path: cock/belly/shoulder/head
+        weight: 1
+      - path: cock/belly/shoulder/head/crown
+        weight: 1
+      - path: cock/belly/shoulder/shoulder_left
+        weight: 1
+      - path: cock/belly/shoulder/shoulder_left/elbow_left
+        weight: 1
+      - path: cock/belly/shoulder/shoulder_left/elbow_left/hand_left
+        weight: 1
+      - path: cock/belly/shoulder/shoulder_right
+        weight: 1
+      - path: cock/belly/shoulder/shoulder_right/elbow_right
+        weight: 1
+      - path: cock/belly/shoulder/shoulder_right/elbow_right/hand_right
+        weight: 1
+      - path: cock/left_hip
+        weight: 1
+      - path: cock/left_hip/left_knee
+        weight: 1
+      - path: cock/left_hip/left_knee/left_foot
+        weight: 1
+      - path: cock/right_hip
+        weight: 1
+      - path: cock/right_hip/right_knee
+        weight: 1
+      - path: cock/right_hip/right_knee/right_foot
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group/pasted__pSphere1
+        weight: 1
+      - path: group/pasted__pSphere1/transform3
+        weight: 1
+      - path: left
+        weight: 1
+      - path: left_hand_IK
+        weight: 1
+      - path: left_leg
+        weight: 1
+      - path: link:Mesh
+        weight: 1
+      - path: link:Mesh/link:transform2
+        weight: 1
+      - path: null
+        weight: 1
+      - path: null/link:CHaracter
+        weight: 1
+      - path: null/polySurface2
+        weight: 1
+      - path: null/polySurface2/transform7
+        weight: 1
+      - path: null/polySurface3
+        weight: 1
+      - path: null/polySurface3/transform8
+        weight: 1
+      - path: null/polySurface4
+        weight: 1
+      - path: null/polySurface4/link:transform1
+        weight: 1
+      - path: null/wings:group_0_ID4
+        weight: 1
+      - path: null/wings:group_0_ID4/transform6
+        weight: 1
+      - path: null/wings:group_1_ID13
+        weight: 1
+      - path: null/wings:group_1_ID13/transform5
+        weight: 1
+      - path: pasted__pPipe1
+        weight: 1
+      - path: pasted__pPipe1/transform1
+        weight: 1
+      - path: polySurface5
+        weight: 1
+      - path: pPipe1
+        weight: 1
+      - path: pPipe1/transform2
+        weight: 1
+      - path: pSphere1
+        weight: 1
+      - path: pSphere1/transform4
+        weight: 1
+      - path: right_hand_IK
+        weight: 1
+      - path: right_leg
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

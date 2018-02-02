@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scene's/menu.unity
+    guid: 3f84c1f5ebe34cf4b88ecd22ea2c70a6
+  - enabled: 1
+    path: Assets/scene's/Damion test.unity
+    guid: 239afdd3b9f7de64887cb29c319492b2
+  - enabled: 1
+    path: Assets/scene's/lose.unity
+    guid: 00000000000000000000000000000000
